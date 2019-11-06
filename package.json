@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "test for typeScripe",
+  "main": "greeter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeyangmei/typeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeyangmei/typeScript/issues"
+  },
+  "homepage": "https://github.com/yeyangmei/typeScript#readme",
+  "devDependencies": {
+    "eslint": "^6.5.0"
+  }
+}
