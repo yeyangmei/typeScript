@@ -18,5 +18,11 @@
   "homepage": "https://github.com/yeyangmei/typeScript#readme",
   "devDependencies": {
     "eslint": "^6.5.0"
+  },
+  "dependencies": {
+    "echarts": "^4.4.0",
+    "echarts-for-react": "^2.0.15-beta.1",
+    "react": "^16.11.0",
+    "webpack": "^4.41.2"
   }
 }

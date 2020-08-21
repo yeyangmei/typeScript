@@ -12,3 +12,4 @@ function greeter(person) {
 }
 var usr = new Student('Jane', 'M. ', 'User');
 document.body.innerHTML = greeter(usr);
+// this is test
